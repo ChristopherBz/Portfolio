@@ -1,7 +1,9 @@
 # Portfolio
 Come visit my portfolio site which lists my experience, previous projects and my contact information.
 ![Screenshot](https://github.com/ChristopherBz/Portfolio/blob/501d5d57246a216cdb538f6bdf169277e9847a06/images/Christopher%20-%20Full%20Stack%20Dev%20Portfolio.gif) 
+
 repo: https://github.com/ChristopherBz/Portfolio
+
 Live: https://christopherbz.github.io/Portfolio/
 
 
