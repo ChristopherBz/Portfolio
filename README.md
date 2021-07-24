@@ -14,12 +14,14 @@ repo @ https://github.com/Fonyx/groupProject1
 deployed @ https://fonyx.github.io/groupProject1/ 
 
 ## Weather-Dashboard
+![Screenshot](https://github.com/ChristopherBz/Weather-Dashboard/blob/b0874705c398136b01494763236aa9185b4a3ceb/assets/Weather%20Dashboard.gif)
 
 Repo: https://github.com/ChristopherBz/Weather-Dashboard
 
 Live: https://christopherbz.github.io/Weather-Dashboard/
 
 ## Coding Quiz
+![Screenshot](https://github.com/ChristopherBz/CodingQuiz/blob/56c89d5567d77b947982d00e29dafd2119ae1379/assets/Coding%20Quiz.gif)
 
 Repo: https://github.com/ChristopherBz/CodingQuiz
 
