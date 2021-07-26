@@ -17,7 +17,6 @@ Version:	1.1
 	* Testimonial Carousel
 	* Blog Carousel
 	* Blog Slider
-	* Clients Carousel
 	* Wow JS
 	* Parallax JS
 	* Video Background
@@ -200,32 +199,6 @@ Version:	1.1
 			}
 		});	
 		
-		
-		/*====================================
-		// clients Carousel
-		======================================*/ 	
-		$(".clients-slider").owlCarousel({
-			loop:true,
-			autoplay:false,
-			smartSpeed: 600,
-			margin:30,
-			nav:false,
-			dots:false,
-			responsive:{
-				300: {
-					items: 1,
-				},
-				480: {
-					items: 2,
-				},
-				768: {
-					items: 3,
-				},
-				1170: {
-					items: 5,
-				},
-			}
-		});	
 		
 		/*====================================
 			Wow JS
