@@ -10,8 +10,8 @@ Live: https://christopherbz.github.io/Portfolio/
 ### Projects
 ## Movie Actor Matcher
 ![Screenshot](https://github.com/Fonyx/groupProject1/blob/main/screencap.gif?raw=true "Movie finder")  
-repo @ https://github.com/Fonyx/groupProject1  
-deployed @ https://fonyx.github.io/groupProject1/ 
+repo @ https://github.com/Fonyx/actorLookup 
+deployed @ https://fonyx.github.io/actorLookup/
 
 ## Weather-Dashboard
 ![Screenshot](https://github.com/ChristopherBz/Weather-Dashboard/blob/b0874705c398136b01494763236aa9185b4a3ceb/assets/Weather%20Dashboard.gif)
