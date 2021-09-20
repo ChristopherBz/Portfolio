@@ -13,16 +13,16 @@ Live: https://christopherbz.github.io/Portfolio/
 repo @ https://github.com/Fonyx/actorLookup   
 deployed @ https://fonyx.github.io/actorLookup/
 
-## Weather-Dashboard
-![Screenshot](https://github.com/ChristopherBz/Weather-Dashboard/blob/b0874705c398136b01494763236aa9185b4a3ceb/assets/Weather%20Dashboard.gif)
+## Tech-Blog
+![Screenshot](https://github.com/ChristopherBz/Tech-Blog/blob/8ac9baaf916496ca145c2a1ace6cf5e69be4ccae/Tech%20Blog.gif)
 
-Repo: https://github.com/ChristopherBz/Weather-Dashboard
+Repo: https://github.com/ChristopherBz/Tech-Blog/
 
-Live: https://christopherbz.github.io/Weather-Dashboard/
+Live: https://shielded-sierra-40191.herokuapp.com/
 
-## Coding Quiz
-![Screenshot](https://github.com/ChristopherBz/CodingQuiz/blob/56c89d5567d77b947982d00e29dafd2119ae1379/assets/Coding%20Quiz.gif)
+## Car-Enthusiasts
+![Screenshot](https://github.com/ChristopherBz/Car-Enthusiasts/blob/c298a76953a9eebddeb22ecba88116ba76647126/assets/Car%20Enthusiats.gif)
 
-Repo: https://github.com/ChristopherBz/CodingQuiz
+Repo: https://github.com/ChristopherBz/Car-Enthusiasts
 
-Live: https://christopherbz.github.io/CodingQuiz/
+Live: https://car-enthusiasts.herokuapp.com/
